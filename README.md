@@ -16,19 +16,27 @@
 
 ## About Me:
 
+🚀 **Aspiring AI Innovator & Entrepreneur** | Year 2 Diploma in Applied AI & Analytics @ **Nanyang Polytechnic**
 
-- Actively participating in international events and hackathons. .
-- I am currently learning Data Structure And Algorithms in Cpp(I have solved 170 leet code problems till now).
-- Doing BSCS from NUML(4/4 CGPA : currently in fifth semester).
-- I got selected for the Stanford code-in-place program and taught Python to international students.
-- Typing speed 80 WPM.
-- Won speed programming competition at Beacon House International College.
-- Won CS50x puzzle day(Solved all 9 out of 9 puzzles).
-- Topped on district level in IKLC(International Kangaroo Linguistic Contest).
-- Aspiring Full Stack developer(currently knows only frontend development).
-- Trainer @icodeguru(for data structures and algorithm)
-- I won the sac race at Punjab College (Both in FSc I and Fsc II).
-- I like watching podcasts and playing games and sports.
+💡 I build AI-powered solutions that solve real-world problems — from automating workflows for local businesses to creating impactful tech products.
+
+### 🎯 Current Focus:
+- 🤖 **Automation Engineer** @ Lexco (reducing manual workflows by 60%)
+- 💻 **Swift Club Sub-Committee Member** @ NYP Swift App Development SIG
+- 📊 Developing AI agents for business automation & growth
+- 🌐 Building websites and digital solutions for local contractors
+
+### 🏆 Recent Achievements:
+- 🥈 **Dell InnovateDash 2025 Finalist** - Recognized by Dell Technologies
+- 🚢 **PSA Code Sprint 2025** - Built PORTUS AI for global trade coordination
+- 🧠 Completed **15+ certifications** in AI, Data Analytics, and Cloud Computing
+- ⚡ Architected automation solutions saving clients **15+ hours/week**
+- 🎓 **AI Facilitator & Trainer** @ AI Singapore programs
+
+### 💼 Skills & Passions:
+🤖 AI & Machine Learning | 📊 Data Analytics | 🌱 Health & Wellness Tech | 📈 Business Automation | 🔍 Web Scraping | 💬 Digital Marketing
+
+🎮 When I'm not coding, I enjoy exploring new technologies, participating in hackathons, and building products that make a difference!
 
 ## Skill Set:
 
@@ -63,6 +71,7 @@
 
 ## Connect with me:
 <div align="center">
+    <a href="https://www.linkedin.com/in/arbaz2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a href="https://github.com/Axlirr" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
     <a href="https://leetcode.com/u/Axlirr/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
 </div>
