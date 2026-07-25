@@ -27,9 +27,8 @@
 ```yaml
 name:        Axlir (Arbaz)
 role:        Aspiring AI Innovator & Entrepreneur
-education:   Year 2 — Diploma in Applied AI & Analytics @ Nanyang Polytechnic
 focus:       Building AI-powered solutions that solve real-world problems
-currently:   Automation Engineer @ Lexco  →  reducing manual workflows by ~60%
+currently:   Automation Engineer  →  reducing manual workflows by ~60%
 fun_fact:    I turn repetitive workflows into one-click automations ⚡
 ```
 
